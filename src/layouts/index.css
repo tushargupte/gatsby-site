@@ -11,3 +11,7 @@ a {
   text-decoration: none;
   font-weight: 600;
 }
+
+.Hero {
+  background: url('http://www.tushargupte.com/Files/React/wallpaper3.jpg')
+}
