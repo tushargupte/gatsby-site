@@ -38,7 +38,8 @@ const IndexPage = () => (
       <Card 
         title="React for Designers"
         text="12 Sections"
-        image src="http://www.tushargupte.com/Files/React/wallpaper.jpg" />
+        image="http://www.tushargupte.com/Files/React/wallpaper.jpg" 
+      />
     </div>
   </div>
 )
