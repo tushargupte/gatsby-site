@@ -10,6 +10,11 @@ const SectionGroup = styled.div `
     grid-template-rows: 300px auto;
     grid-gap: 20px;
     position: relative;
+
+    @media (max-width: 640px) {
+        height: 820px;
+    }
+
 `
 
 const SectionLogo = styled.img `
@@ -35,6 +40,10 @@ const SectionTitle = styled.h3 `
     font-size: 50px;
     line-height: 100%;
     margin: 0;
+
+    @media (max-width: 720px) {
+        font-size: 40px;
+    }
 `
 
 const SectionText = styled.p `
