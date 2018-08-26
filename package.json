@@ -8,6 +8,7 @@
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-source-contentful": "^1.3.54",
+    "netlify-lambda": "^0.4.0",
     "react-helmet": "^5.2.0",
     "react-stripe-checkout": "^2.6.3",
     "styled-components": "^3.4.2"
