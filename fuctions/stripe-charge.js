@@ -1,3 +1,3 @@
-exports.handler = function() {
-    console.log('working...')
+exports.handler = function () {
+	console.log('working...')
 }
